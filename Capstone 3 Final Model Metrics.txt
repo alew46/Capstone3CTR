@@ -1,0 +1,13 @@
+Final Model Metrics
+
+scikitlearn GradientBoostingRegressor
+
+Paramaters:
+    max_depth=4
+    n_estimators=30
+    random_state=42
+    learning_rate=.2
+    
+    
+Scoring:
+    r2 score on test data: 0.48304028619845474
